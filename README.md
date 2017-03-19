@@ -2,7 +2,7 @@
 ### Submission by Connor Lenio. Email: cojamalo@gmail.com
 Completion Date: Mar 19, 2017
 
-The following are the instructions for implementing the construct_plots.R script with the source data to create the four desired plots.
+The following are the instructions for implementing the plot#.R series of scripts with the source data to create the four desired plots.
 
 ### Working Directory
 Please make sure your working directory contains the uncompressed contents from https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
@@ -16,7 +16,7 @@ The script assumes the following packages are either in your base R installation
 - lubridate
 
 ### RUN
-Source the plot1.R script in your working directory that also contains the data. Substitute the plot # you want to recreate for the "1" in "plot1.R" for instance.  
+Source the plot1.R script in your working directory that also contains the data. Substitute the plot # you want to recreate for the "1" in "plot1.R", such as "plot4.png," for instance.  
 
 ### The Process
 I have also commented the code itself in each plot.R file, so feel free to follow along by looking at its contents.
