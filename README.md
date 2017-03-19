@@ -2,12 +2,12 @@
 ### Submission by Connor Lenio. Email: cojamalo@gmail.com
 Completion Date: XXX 00, 2017
 
-The following are the instructions for implementing the run_analysis.R script with the source data.
+The following are the instructions for implementing the construct_plots.R script with the source data to create the four desired plots.
 
 ### Working Directory
-Please make sure your working directory contains the uncompressed contents from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+Please make sure your working directory contains the uncompressed contents from https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
 
-The script assumes that paths such as "./test/subject_test.txt" are valid. Please confirm this is the case for you.
+The script assumes that paths such as "./household_power_consumption.txt" are valid. Please confirm this is the case for you.
 
 ### Dependecies
 The script assumes the following packages are either in your base R installation or have been installed:
