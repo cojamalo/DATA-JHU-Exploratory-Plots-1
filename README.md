@@ -2,9 +2,8 @@
 ### Submission by Connor Lenio. Email: cojamalo@gmail.com
 Completion Date: Mar 19, 2017
 
-The following are the instructions for implementing the plot#.R series of scripts with the source data to create the four desired plots.
-
-## Introduction
+### Introduction to the Data
+From "Exploratory Data Analysis Week 1 Project" instructions:
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
@@ -38,6 +37,9 @@ web site</a>:
 <li><b>Sub_metering_2</b>: energy sub-metering No. 2 (in watt-hour of active energy). It corresponds to the laundry room, containing a washing-machine, a tumble-drier, a refrigerator and a light. </li>
 <li><b>Sub_metering_3</b>: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.</li>
 </ol>
+
+### The Scripts
+The following are the instructions for implementing the plot#.R series of scripts with the source data to create the four desired plots.
 
 ### Working Directory
 Please make sure your working directory contains the uncompressed contents from https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
