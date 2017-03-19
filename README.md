@@ -1,6 +1,6 @@
-## DATA-JHU-Clean-Data-Project
+## DATA-JHU-Exploratory-Plots-1
 ### Submission by Connor Lenio. Email: cojamalo@gmail.com
-Completion Date: Feb 4, 2017
+Completion Date: XXX 00, 2017
 
 The following are the instructions for implementing the run_analysis.R script with the source data.
 
