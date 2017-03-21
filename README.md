@@ -53,7 +53,7 @@ The script assumes the following packages are either in your base R installation
 - lubridate
 
 ### RUN
-Source the plot1.R script in your working directory that also contains the data. Substitute the plot # you want to recreate for the "1" in "plot1.R", such as "plot4.png," for instance.  
+Source the plot1.R script in your working directory that also contains the data. Substitute the plot # you want to recreate for the "1" in "plot1.R", such as "plot4.R," for instance.  
 
 ### The Process
 I have also commented the code itself in each plot.R file, so feel free to follow along by looking at its contents.
