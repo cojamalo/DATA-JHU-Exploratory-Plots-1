@@ -72,7 +72,7 @@ The Construct the Plot steps vary for each plot, but each version includes:
 ### OUTPUT
 When the script completes, your workspace will contain the imported data, df, and your working directory will now contain the final png image of the plot with its proper name such as "plot1.png.
 
-Project coded by Connor Lenio ©2017. 
+Project coded by Connor Lenio - released into the public domain for educational purposes in 2017. 
 
 
 
